@@ -12,6 +12,7 @@
         display: flex;
         align-items: center;
         flex-direction: unset;
+        background-color: #909090;
     }
 
     .columns > div > div {
