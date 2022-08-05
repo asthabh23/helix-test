@@ -12,12 +12,13 @@
         display: flex;
         align-items: center;
         flex-direction: unset;
-        background-color: #909090;
+        background-color: blue;
     }
 
     .columns > div > div {
         flex: 1;
         margin-left: 32px;
+        background-color: bisque;
     }
 
     .columns > div > div:first-of-type {
